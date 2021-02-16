@@ -1,0 +1,2 @@
+#!/bin/bash 
+python $1/tools/arbiter.py -w $1\lab\$2 -t $1\tests\$2 -r $1\lab
